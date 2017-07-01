@@ -1,0 +1,4 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/qhan2/github/android-Camera2Video/Application/src/main/java/com/example/android/camera2video'
+let g:netrw_dirhist_2='/home/qhan2/Android/icg/oneN-bxt-feat/vendor/intel/camera/camera-testing/android-api-tests/TestCases2/src/com/intel/cilab/androidtest/testcases2'
